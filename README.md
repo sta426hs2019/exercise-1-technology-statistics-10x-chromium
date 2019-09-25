@@ -16,7 +16,7 @@ ___
 ___
 
 # Part b
-## what the method does
+## what the ChIP-Seq does
 
 #### Combination of chromatin immunoprecipitation (ChIP) with ultra high-throughput massively parallel sequencing.
 
