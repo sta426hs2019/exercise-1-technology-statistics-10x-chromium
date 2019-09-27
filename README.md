@@ -31,6 +31,8 @@ ___
 ## make the link (technology -> application -> statistics)
 
 #### Chromatin Immunoprecipitation (ChIP) -> ChIP-Seq -> Poisson distributions, a negative binomial,...（ Used in peak calling process） 
+##### Another application of ChIP-Seq is differential peak calling: This aims to identify differences in two ChIP-seq signals. To identify the differential peaks Hidden Markov Models (HMM) are used. 
+##### HMM: A statistical model which consists of a unobservable Markov chain emitting (observable) symbols at each state depending only on the current state (Markov Property). Due to the presence of hidden random variables the optimization is not straightforward. A popular technique to be used is the Expectation Maximization Algorithm.
 
 ___
 
